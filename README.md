@@ -1,71 +1,37 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 # blockthecrime
+
+## Problem Statement
+Many Indians, including victims, are reluctant to visit police stations and file complaints.
+This hesitation persists even in severe cases.
+Factors contributing to this reluctance include:
+1. Conservative family backgrounds
+2.Fear of corrupt police practices
+3.Lack of confidence in obtaining justice
+Thousands of crimes go unreported daily due to this hesitation.
+This leads to a significant gap in crime statistics and law enforcement efforts.
+People are losing faith in the judicial system.
+Perceived corruption within the system is a major factor in this loss of trust.
+Cases involving influential individuals are often dismissed without proper investigation.
+There are instances where evidence is tampered with or destroyed.
+Many cases take an excessively long time to reach a conclusion.
+## Example: The Nirbhaya case took seven years to deliver justice.
+Such delays further discourage people from engaging with the legal system.
+Lack of a systematic approach to prioritize cases based on severity or urgency.
+This results in delayed justice for critical cases and inefficient resource allocat
+
+## Solution:
+1. Blockchain-Based Case Filing
+- Direct case filing into the blockchain
+- Ensures immutability and transparency of case records
+- Prevents tampering of evidence and case details
+2. Anonymous Reporting Option
+- Users can choose to file complaints anonymously
+- Encourages reporting of crimes against powerful individuals
+- Protects complainants from potential threats or social stigma
+3. Decentralized Case Review
+- Multiple officers can review and investigate cases
+- Reduces the impact of individual corruption
+- Increases the likelihood of fair case handling
+4. Severity-Based Case Sorting
+- Utilizes Cohere API for intelligent case prioritization
+- Ensures emergency and severe cases are addressed first
